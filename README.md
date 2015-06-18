@@ -11,3 +11,14 @@ Mac XCode Projects
 - myCompVision
 - pyramidTextured
 - shaderExample
+
+Windows Visual Studio Projects are on the Windows Apps branch
+- SingingVoices
+- babyShader
+- dancingCloud
+- pyramidMesh
+- shaderBasicGradientFill
+- shaderColorInvert
+- shaderInverting
+- triangleCloudShader
+- twistingKnot
